@@ -1,5 +1,7 @@
 # Arduino Upload Package
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/StaticRocket/arduino-upload.svg)](https://greenkeeper.io/)
+
 Did you not like the look of the Arduino IDE but were stuck with it nevertheless? Not anymore, this package provides some essential features of the Arduino IDE.
 
 * Verify a sketch
