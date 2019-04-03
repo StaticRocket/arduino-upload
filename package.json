@@ -24,7 +24,7 @@
 	},
 	"dependencies": {
 		"atom-space-pen-views": ">=2.0.3",
-		"bluebird": ">=3.5.0",
+		"bluebird": ">=3.5.4",
 		"serialport": ">=7.0.2",
 		"tmp": ">=0.0.31",
 		"usb-detection": ">=3.0.0"
