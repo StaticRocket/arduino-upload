@@ -30,7 +30,7 @@
 		"usb-detection": ">=3.0.0"
 	},
 	"devDependencies": {
-		"jasmine": ">=3.3.1"
+		"jasmine": ">=3.5.0"
 	},
 	"scripts": {
 		"test": "jasmine"
